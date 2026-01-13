@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "Neunt Praeludium (Last Bullet MIX)",
+  "base_artist": "一柳梨璃(CV:赤尾ひかる)、白井夢結(CV:夏吉ゆうこ)、相澤一葉(CV:藤井彩加)、今叶星(CV:前田佳織里)",
+  "createdAt": "2026-01-13T02:39:44.170026Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Neunt Praeludium (Last Bullet MIX)",
+      "artist": "一柳梨璃(CV:赤尾ひかる)",
+      "has_synced": true,
+      "path": "select/01_Neunt_Praeludium_(Last_Bullet_MIX)_一柳梨璃(CV_赤尾ひかる).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Neunt Praeludium(Last Bullet MIX)",
+      "artist": "一柳梨璃(CV:赤尾ひかる)&白井夢結(CV:夏吉ゆうこ)&相澤一葉(CV:藤井彩加)&今叶星(CV:前田佳織里)",
+      "has_synced": false,
+      "path": "select/pl_01_Neunt_Praeludium(Last_Bullet_MIX)_一柳梨璃(CV_赤尾ひかる)&白井夢結(CV_夏吉ゆうこ)&相澤一葉(CV_藤井彩加)&今叶星(CV_前田佳織里).txt"
+    }
+  ]
+}
